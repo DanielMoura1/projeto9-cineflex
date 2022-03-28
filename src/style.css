@@ -1,0 +1,199 @@
+@import url("https://fonts.googleapis.com/css2? family= Encode+Sans:wght@100;200;300;400;500;600;700 & display=swap");
+.menu{
+    background-color: rgb(195, 207, 217);
+    height: 90px;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(232, 131, 58);
+
+    font-size: 40px;
+    font-family: "Encode Sans", sans-serif;
+}
+.titulo{
+    height: 140px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.tituloo{
+    height: 140px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: rgb(36, 122, 107);
+}
+.cartaz{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.daniel{
+    display: flex;
+    flex-wrap:wrap;
+    
+}
+.espaco{
+    
+
+    height: 160px;
+    width: 100px; 
+}
+.espacoo{
+    margin-left: 30px;
+    margin-bottom: 10px;
+
+    height: 170px;
+    width: 110px;
+    background: white;   
+}
+.espaco2{
+    display: flex;
+    flex-direction:row;
+    margin-left: 60px;
+}
+.botao{
+    margin-left: 30px;
+    height: 35px;
+    width:330px;
+}
+.botao2{
+    margin-top: 130px;
+    margin-left: 80px;
+    height: 45px;
+    width:250px;
+    background:rgb(232, 131, 58);
+    color: white;
+    font-size: 18px;
+}
+.botao3{
+    margin-top: 200px;
+    margin-left: 80px;
+    height: 45px;
+    width:250px;
+    background:rgb(232, 131, 58);
+    color: white;
+    font-size: 18px;
+}
+.titulo2{
+    margin-left: 30px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.zero{
+    display: none;
+}
+.hora{
+    margin-left: 30px;
+    font-size: 25px;  
+}
+.horario1{
+    height: 50px;
+    width:80px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: orange;
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.barraDeBaixo{
+    background-color: rgb(223, 230, 237);
+    height: 125px;
+    width: 420px;
+    position: fixed;
+    bottom:0px;
+    left: 0px;
+
+    display:flex;
+    
+}
+.imgg{
+    width: 50px;
+    height:80px;
+    
+}
+.csscaixa{
+    width:60px;
+    height:90px;
+
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background: white;
+
+    margin-left:10px;
+    margin-top: 10px;
+}
+.csstexto{
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size:25px;
+}
+.tex{
+    margin-bottom: 10px;
+    margin-top:35px;
+}
+
+.bola{
+    margin-left: 10px;
+
+    background: aquamarine;
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.caixaBola{
+    margin-top: 10px;
+    
+    margin-left: 60px;
+    width: 300px;
+    display:flex;
+    align-content:space-around ;
+}
+.bolaSelecionado{
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    background: rgb(141, 215, 207);
+
+    margin-left: 20px;
+}
+.bolaDisponivel{
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    background: rgb(195, 207, 217);
+    margin-left: 20px;
+}
+.bolaIndisponivel{
+     border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    background: rgb(251, 225, 146);
+    margin-left: 20px;
+
+}
+.caixa{
+    margin-right: 20px;
+}
+.tela4h1{
+    margin-left: 30px;
+    margin-bottom: 15px;
+    font-size:35px
+}
+.tela4p{
+    margin-left: 30px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
